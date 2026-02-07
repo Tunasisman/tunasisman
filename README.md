@@ -11,12 +11,16 @@
   </a>
 </p>
 
+---
+
 ## About
 I bridge the gap betwwen technology and finance - applying analytical, data-driven methods to improve decision-making, business strategy, and product outcomes.
 - First Class Computer Science graduate (University of York)
 - CFA Level I candidate
 - Strengths: problem solving, collaboration, leadership, delivery under deadlines
 - Focus areas: Data Science, Machine Learning, AI, Financial Markets (Stocks & Trading)
+
+---
 
 ## Featured Projects
 
@@ -28,6 +32,7 @@ I bridge the gap betwwen technology and finance - applying analytical, data-driv
   - Designed and trained a convolutional neural network from scratch using PyTorch to classify 102 flower species from the Oxford Flowers dataset, applying data augmentation and regularization techniques to improve generalization.
 
 ---
+
 ## Tech Stack
 
 <p>
