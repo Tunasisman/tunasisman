@@ -24,7 +24,7 @@ I bridge the gap betwwen technology and finance - applying analytical, data-driv
 
 ## Featured Projects
 
-- **Final Year Project – Macroeconomic Forecasting with Machine Learning**  
+- **[Final Year Project – Macroeconomic Forecasting with Machine Learning](https://github.com/Tunasisman/uk-gdp-forecasting-ml)**  
   - Comparative analysis of traditional econometric models (ARIMA, VAR) and modern ML approaches (LSTM, XGBoost) for predicting UK GDP growth using official ONS data.  
   - Achieved strongest performance with XGBoost, demonstrating the effectiveness of nonlinear, feature-driven models in macroeconomic forecasting.
 
