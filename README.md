@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=180&section=header&text=Tunahan%20Sisman&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=520&lines=Computer+Science+(First+Class)+%40+York;Data+Science+%26+ML+for+Finance;CFA+Level+I+Candidate;Currently%3A+WQU+Data+Science+Lab" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=520&lines=Computer+Science+(First+Class)+%40+York;Data+Science+%26+ML+for+Finance;CFA+Level+I+Candidate" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tunahansisman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
