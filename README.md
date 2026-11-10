@@ -1,65 +1,43 @@
-<h1 align="center">Tunahan Sisman</h1>
-<p align ="center"><b>Computer Science Graduate From the University of York</b></p>
-<p align="center"><b>Finance & Tech | Data-driven Problem Solver</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=180&section=header&text=Tunahan%20Sisman&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tunahansisman/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-tunahansisman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tunasisman25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tunasisman25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=520&lines=Computer+Science+(First+Class)+%40+York;Data+Science+%26+ML+for+Finance;CFA+Level+I+Candidate;Currently%3A+WQU+Data+Science+Lab" />
 </p>
 
----
-
-## About
-I bridge the gap betwwen technology and finance - applying analytical, data-driven methods to improve decision-making, business strategy, and product outcomes.
-- First Class Computer Science graduate (University of York)
-- CFA Level I candidate
-- Strengths: problem solving, collaboration, leadership, delivery under deadlines
-- Focus areas: Data Science, Machine Learning, AI, Financial Markets (Stocks & Trading)
-
----
-
-## Featured Projects
-
-- **[Final Year Project – Macroeconomic Forecasting with Machine Learning](https://github.com/Tunasisman/uk-gdp-forecasting-ml)**  
-  - Comparative analysis of traditional econometric models (ARIMA, VAR) and modern ML approaches (LSTM, XGBoost) for predicting UK GDP growth using official ONS data.  
-  - Achieved strongest performance with XGBoost, demonstrating the effectiveness of nonlinear, feature-driven models in macroeconomic forecasting.
-
-- **[Intelligent Systems Project – CNN for Image Classification](https://github.com/Tunasisman/Intelligent-Systems-Project-Coursework)**  
-  - Designed and trained a convolutional neural network from scratch using PyTorch to classify 102 flower species from the Oxford Flowers dataset, applying data augmentation and regularization techniques to improve generalization.
-
----
-
-## Tech Stack
-
-<p>
-  <img s<img src="https://skillicons.dev/icons?i=python,js,java,html,css,fastapi,postgres,git,github,linux,vscode,figma,graphql,tensorflow,pytorch,&perline=12" >
+<p align="center">
+  <a href="https://www.linkedin.com/in/tunahansisman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tunasisman25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Tunasisman&style=for-the-badge&color=00C9A7&label=Profile+Views" />
 </p>
 
-**Programming Languages:** Python, Java, JavaScript, SQL  
+## 🧠 About
+I apply data-driven methods to financial and business problems, from macroeconomic forecasting to model evaluation.
 
-**Data Science & Machine Learning:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
+## 🚀 Featured Projects
 
-**Time Series & Econometrics:** statsmodels (ARIMA, VAR)  
+### 📈 [UK GDP Forecasting: Econometrics vs Machine Learning](https://github.com/Tunasisman/uk-gdp-forecasting-ml)
+`Python` `statsmodels` `XGBoost` `LSTM` `time series`
+- Compared ARIMA and VAR with LSTM and XGBoost for forecasting UK GDP growth on official ONS data (chronological split to avoid leakage).
+- XGBoost performed best on every metric: **MAE 0.197 vs 0.234 for ARIMA (~16% lower)**, and was the only model with a positive R² (**0.34**).
 
-**Databases & Data Tools:** PostgreSQL, Microsoft Excel, Google Sheets  
+### 🌸 [CNN Flower Classification (102 classes)](https://github.com/Tunasisman/Intelligent-Systems-Project-Coursework)
+`PyTorch` `CNN` `data augmentation`
+- Designed and trained a CNN from scratch on Oxford Flowers-102, with no pretrained weights.
+- Reached **64.22% test accuracy** across 102 classes, using data augmentation and early stopping to limit overfitting.
 
-**Data Visualization:** Matplotlib, Seaborn, Plotly  
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,postgres,fastapi,git,linux,vscode&perline=9" />
+</p>
 
-**Web / Application Development:** HTML, CSS, FastAPI  
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tunasisman&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Tunasisman&theme=tokyonight&hide_border=true" />
+</p>
 
-**DevOps / Tooling:** Git, GitHub, Linux, GitHub Actions  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tunasisman/Tunasisman/output/github-snake-dark.svg" />
+</p>
 
-**Cloud / Platforms:** Google Colab, Jupyter Notebook, VS Code  
-
----
-
-## Contact
-
-Feel free to reach out for opportunities, collaborations, or discussions around technology and finance.
-
-- 💼 LinkedIn: https://linkedin.com/in/tunahansisman  
-- 📧 Email: tunasisman25@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0A66C2&height=100&section=footer" width="100%" />
