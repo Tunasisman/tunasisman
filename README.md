@@ -28,8 +28,16 @@ I apply data-driven methods to financial and business problems, from macroeconom
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,postgres,fastapi,git,linux,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,postgres,fastapi,git,githubactions,linux,vscode&perline=10" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
